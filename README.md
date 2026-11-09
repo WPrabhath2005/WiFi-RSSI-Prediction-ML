@@ -30,10 +30,10 @@ To isolate hardware variables, data from a single access point was used. The fol
 The **Random Forest Regressor** achieved the highest accuracy with an **$R^2$ score of 84.38%**, successfully identifying the underlying signal degradation pattern despite heavy environmental noise.
 
 ### Model Comparison
-![Model Comparison](images/bar_chart.jpeg)
+![Model Comparison](bar_chart.jpeg)
 
 ### Actual vs. Predicted (Random Forest)
-![Actual vs Predicted](images/scatter_plot.jpeg)
+![Actual vs Predicted](scatter_plot.jpeg)
 
 ## 🚀 Future Scope
 Moving forward, I plan to incorporate additional features such as Wall Count, Line of Sight (LoS), and specific Router IDs to build a generalized multi-AP prediction system. 
